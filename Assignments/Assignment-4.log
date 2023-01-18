@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.11.25) (preloaded format=pdflatex 2022.12.22)  13 JAN 2023 07:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.11.25) (preloaded format=pdflatex 2022.12.22)  18 JAN 2023 06:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**./Assignment-5.tex
-(Assignment-5.tex
+**./Assignment-4.tex
+(Assignment-4.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2022-11-02>
 (C:\Users\manka\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -666,64 +666,64 @@ Package: blx-case-expl3 2022/07/12 v3.18b expl3 case changing code for biblatex
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 LaTeX Font Info:    Trying to load font information for T1+ntxtlf on input line
- 27.
+ 22.
 
 (C:\Users\manka\AppData\Local\Programs\MiKTeX\tex/latex/newtx\t1ntxtlf.fd
 File: t1ntxtlf.fd 2021/05/24 v1.1 font definition file for T1/ntx/tlf
 )
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 12.0pt on input line 27.
+(Font)              scaled to size 12.0pt on input line 22.
 
 
 Package biblatex Warning: Conflicting options.
 (biblatex)                '<namepart>inits' conflicts with 'uniquename=full'.
-(biblatex)                Setting 'uniquename=init' on input line 27.
+(biblatex)                Setting 'uniquename=init' on input line 22.
 
-(Assignment-5.aux)
-\openout1 = `Assignment-5.aux'.
+(Assignment-4.aux)
+\openout1 = `Assignment-4.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 27.
+LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 22.
 LaTeX Font Info:    Trying to load font information for OML+ntxmi on input line
- 27.
+ 22.
 
 (C:\Users\manka\AppData\Local\Programs\MiKTeX\tex/latex/newtx\omlntxmi.fd
 File: omlntxmi.fd 2015/08/25 Fontinst v1.933 font definitions for OML/ntxmi.
 )
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 22.
 LaTeX Font Info:    Trying to load font information for U+ntxexa on input line 
-27.
+22.
 
 (C:\Users\manka\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxexa.fd
 File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
 )
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 22.
 LaTeX Font Info:    Trying to load font information for LMS+ntxsy on input line
- 27.
+ 22.
 
 (C:\Users\manka\AppData\Local\Programs\MiKTeX\tex/latex/newtx\lmsntxsy.fd
 File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
 )
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 22.
 LaTeX Font Info:    Trying to load font information for LMX+ntxexx on input lin
-e 27.
+e 22.
 
 (C:\Users\manka\AppData\Local\Programs\MiKTeX\tex/latex/newtx\lmxntxexx.fd
 File: lmxntxexx.fd 2016/07/03 Fontinst v1.933 font definitions for LMX/ntxexx.
 )
-LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    ... okay on input line 22.
 
 (C:\Users\manka\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
@@ -752,8 +752,8 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 \c@mv@tabular=\count421
 \c@mv@boldtabular=\count422
-LaTeX Info: Command `\dddot' is already robust on input line 27.
-LaTeX Info: Command `\ddddot' is already robust on input line 27.
+LaTeX Info: Command `\dddot' is already robust on input line 22.
+LaTeX Info: Command `\ddddot' is already robust on input line 22.
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
 
@@ -764,80 +764,72 @@ File: english.lbx 2022/07/12 v3.18b biblatex localization (PK/MW)
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
-\openout3 = `Assignment-5.bcf'.
+\openout3 = `Assignment-4.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'Assignment-5.bbl' found.
- (Assignment-5.bbl)
-Package biblatex Info: Reference section=0 on input line 27.
-Package biblatex Info: Reference segment=0 on input line 27.
+Package biblatex Info: ... file 'Assignment-4.bbl' found.
+ (Assignment-4.bbl)
+Package biblatex Info: Reference section=0 on input line 22.
+Package biblatex Info: Reference segment=0 on input line 22.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 20.74pt on input line 28.
+(Font)              scaled to size 20.74pt on input line 23.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 14.4pt on input line 28.
+(Font)              scaled to size 14.4pt on input line 23.
 LaTeX Font Info:    Trying to load font information for OT1+minntx on input lin
-e 28.
+e 23.
 
 (C:\Users\manka\AppData\Local\Programs\MiKTeX\tex/latex/newtx\ot1minntx.fd
 File: ot1minntx.fd 2022/01/20 v1.0 font definition file for OT1/minntx
 )
 LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 
-28.
+23.
 
 (C:\Users\manka\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxmia.fd
 File: untxmia.fd 2018/04/14 Fontinst v1.933 font definitions for U/ntxmia.
 )
 LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 
-28.
+23.
 
 (C:\Users\manka\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxsym.fd
 File: untxsym.fd 2015/03/20 Fontinst v1.933 font definitions for U/ntxsym.
 )
 LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 
-28.
+23.
 
 (C:\Users\manka\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxsyc.fd
 File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
 )
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 17.28pt on input line 30.
+(Font)              scaled to size 17.28pt on input line 25.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 17.28pt on input line 30.
+(Font)              scaled to size 17.28pt on input line 25.
 
-(Assignment-5.toc
+(Assignment-4.toc
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
 (Font)              scaled to size 12.0pt on input line 2.
 )
 \tf@toc=\write4
-\openout4 = `Assignment-5.toc'.
+\openout4 = `Assignment-4.toc'.
 
  [1
 
 {C:/Users/manka/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 14.4pt on input line 48.
+(Font)              scaled to size 14.4pt on input line 41.
  [2] [3]
 
-LaTeX Warning: Empty bibliography on input line 77.
+LaTeX Warning: Empty bibliography on input line 70.
 
 [4
 
-] (Assignment-5.aux)
-
-LaTeX Warning: There were undefined references.
-
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                Assignment-5
-(biblatex)                and rerun LaTeX afterwards.
-
-Package logreq Info: Writing requests to 'Assignment-5.run.xml'.
-\openout1 = `Assignment-5.run.xml'.
+] (Assignment-4.aux)
+Package logreq Info: Writing requests to 'Assignment-4.run.xml'.
+\openout1 = `Assignment-4.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
  15264 strings out of 475281
- 267164 string characters out of 2774064
+ 267224 string characters out of 2774064
  1024403 words of memory out of 3000000
  36559 multiletter control sequences out of 15000+600000
  513731 words of font info for 85 fonts, out of 8000000 for 9000
@@ -847,7 +839,7 @@ Here is how much of TeX's memory you used:
 f.enc}<C:/Users/manka/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/zt
 mb.pfb><C:/Users/manka/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/z
 tmr.pfb>
-Output written on Assignment-5.pdf (4 pages, 82131 bytes).
+Output written on Assignment-4.pdf (4 pages, 82343 bytes).
 PDF statistics:
  26 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
