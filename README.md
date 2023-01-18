@@ -1,7 +1,9 @@
 <hr>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/79782433/213049521-2949bddd-5424-41ad-aea8-d271ee33cda2.jpg", alt="COEP">
+
+<!--https://user-images.githubusercontent.com/79782433/213049521-2949bddd-5424-41ad-aea8-d271ee33cda2.jpg-->
+  <img src="https://raw.githubusercontent.com/bell-kevin/Kevin-Bell/main/kevinBell.png", alt="COEP">
 </p>
 
 ```httpx
