@@ -71,5 +71,13 @@ requests; working on a project in a distributed fashion
 </td>
 </tr>
   
+  ###Course Outcome
+  
+  ```httpx
+1. Develop an application in a group using GIT, demonstrating ability to work remotely, push, and pull. 
+2. Write a report in a specified format using LaTEX. 
+3. Demonstrate programming ability using Unix Shell.
+```
+  
   
 </table>
