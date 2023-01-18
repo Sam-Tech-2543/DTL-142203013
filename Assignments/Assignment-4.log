@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.11.25) (preloaded format=pdflatex 2022.12.22)  18 JAN 2023 12:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.11.25) (preloaded format=pdflatex 2022.12.22)  18 JAN 2023 15:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -814,32 +814,56 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
  [1
 
 {C:/Users/manka/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+
+LaTeX Warning: Citation '[1]' on page 2 undefined on input line 35.
+
+
+LaTeX Warning: Citation '[2]' on page 2 undefined on input line 39.
+
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
 (Font)              scaled to size 14.4pt on input line 41.
- [2] [3]
 
-LaTeX Warning: Empty bibliography on input line 70.
+LaTeX Warning: Citation '[2]' on page 2 undefined on input line 42.
+
+
+LaTeX Warning: Citation '[2]' on page 2 undefined on input line 45.
+
+[2]
+
+LaTeX Warning: Citation '[3]' on page 3 undefined on input line 50.
+
+[3]
+
+LaTeX Warning: Empty bibliography on input line 65.
 
 [4
 
 ] (Assignment-4.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                Assignment-4
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'Assignment-4.run.xml'.
 \openout1 = `Assignment-4.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 15264 strings out of 475281
- 267224 string characters out of 2774064
- 1024403 words of memory out of 3000000
- 36559 multiletter control sequences out of 15000+600000
+ 15449 strings out of 475281
+ 270894 string characters out of 2774064
+ 1024427 words of memory out of 3000000
+ 36744 multiletter control sequences out of 15000+600000
  513731 words of font info for 85 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 69i,6n,76p,700b,1804s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 69i,6n,76p,687b,1804s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/manka/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ec-tl
 f.enc}<C:/Users/manka/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/zt
 mb.pfb><C:/Users/manka/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/z
 tmr.pfb>
-Output written on Assignment-4.pdf (4 pages, 82343 bytes).
+Output written on Assignment-4.pdf (4 pages, 82186 bytes).
 PDF statistics:
  26 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
