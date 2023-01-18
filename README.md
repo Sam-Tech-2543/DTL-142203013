@@ -88,9 +88,9 @@ requests; working on a project in a distributed fashion
 
 <h3> Assignment View</h3>
   <p>Just converted the .pdf into .html to have a quick look at!</p>
- 
+
  <center>
-<table>
+<table style="margin-left: auto;margin-right: auto;">
 <tr>
 <th align="center">
 <img width="800" height="1">
