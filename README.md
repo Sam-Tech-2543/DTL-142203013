@@ -1,7 +1,7 @@
 <hr>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/79782433/213098224-db5625c9-691d-4287-9505-f6cbbad53d0c.jpg", alt="COEP">
+  <img src="./photos/COEP-Pune-Logo.jpg", alt="COEP">
 </p>
 
 ```httpx
