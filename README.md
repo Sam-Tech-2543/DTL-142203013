@@ -92,7 +92,7 @@ requests; working on a project in a distributed fashion
 <table>
 <tr>
 <th align="center">
-<img width="200" height="1">
+<img width="800" height="1">
 <p> 
 <small>
 Name
@@ -101,6 +101,7 @@ Name
 </th>
 </tr>
 <tr>
+  
 <td align="justify">
 1. <a href="./View-Pdf-Online/Assignment-1.html">Assignment-1</a>
 </td>
@@ -117,7 +118,6 @@ Name
 3. <a href="./View-Pdf-Online/Assignment-3.html">Assignment-3</a>
 </td>
 </tr>
-
 
 <tr>
 <td align="justify">
