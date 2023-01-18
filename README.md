@@ -74,7 +74,7 @@ requests; working on a project in a distributed fashion
 </table>
 
 
-  ###Course Outcome
+<h3> Course Outcome</h3>
   
   ```httpx
 1. Develop an application in a group using GIT, demonstrating ability to work remotely, push, and pull. 
