@@ -32,10 +32,10 @@ Contents
 </th>
 </tr>
 <tr>
-<td>
+<td align="center">
 LaTEX
 </td>
-<td>
+<td align="justify">
 Basic syntax, compiling and creating documents; Document structure, sections, 
 paragraphs; packages, Math, Adding Images, Drawing images (using tools like Inkscape) Table 
 of contents; Source code, graphs (using tools like Graphviz), Adding references, different 
@@ -44,12 +44,11 @@ templates, IEEE format, Bibliography
 </td>
 </tr>
   
-  <tr>
-<td>
+<tr>
+<td align="center">
 Shell Programming 
 </td>
-<td>
-<!-- REMOVE THE BACKSLASHES -->
+<td align="justify">
 Introduction to Linux commands, concept of shell, shell variables, 
 getcwd() and pwd; Introduction to shell programming features: Variables declaration & scope, 
 test, return value of a program, if-else and useful examples, for and while loop, switch case; 
@@ -60,26 +59,17 @@ functions, output redirections
 </td>
 </tr>
   
-  <tr>
-<td>
+<tr>
+<td align="center">
 GIT
-  
 </td>
-<td>
+    
+<td align="justify">
 Creating a project using git locally, add, commit, status, diff; branch and merge, GIT: 
 cloning a remote repo, working with a remote repo – git push, pull, fetch; creating issues and pull 
 requests; working on a project in a distributed fashion
-  
 </td>
 </tr>
   
   
-<tr>
-<td align="center">
-Column 1
-</td>
-<td align="center">
-Column 2
-</td>
-</tr>
 </table>
