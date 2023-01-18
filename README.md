@@ -13,7 +13,6 @@ Subject : Development Tools Laboratory
 ```
 
 <table style="width: 100%;">
-  Course Content
 <tr>
 <td>
 <h3>Development Tools Laboratory</h3>
@@ -49,7 +48,7 @@ EXAMPLE TEXT
 <tr>
 <td>
 <!-- REMOVE THE BACKSLASHES -->
-\```jsonc
+```jsonc
 {
   "foo": [
     {
@@ -57,12 +56,12 @@ EXAMPLE TEXT
     }
   ]
 }
-\```
+```
   
 </td>
 <td>
 <!-- REMOVE THE BACKSLASHES -->
-\```jsonc
+```jsonc
 {
   "foo": [
     {
@@ -70,7 +69,7 @@ EXAMPLE TEXT
     }
   ]
 }
-\```
+```
   
 </td>
 </tr>
