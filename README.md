@@ -11,7 +11,7 @@ Class   : Computer Engineering Division 2
 Subject : Development Tools Laboratory
 ```
 
-<hr>
+<br>
 
 <h3> Course Content</h3>
 <table>
@@ -74,6 +74,8 @@ requests; working on a project in a distributed fashion
 </tr>
   
 </table>
+
+<br>
 
 <h3> Course Outcome</h3>
   
