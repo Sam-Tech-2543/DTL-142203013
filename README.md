@@ -89,12 +89,42 @@ requests; working on a project in a distributed fashion
 <h3> Assignment View</h3>
   <p>Just converted the .pdf into .html to have a quick look at!</p>
  
- ```httpx
- [Assignment-1](./View-Pdf-Online/Assignment-1.html)
+<table>
+<tr>
+<th align="center">
+<img width="200" height="1">
+<p> 
+<small>
+Name
+</small>
+</p>
+</th>
+</tr>
+<tr>
+<td align="justify">
 1. <a href="./View-Pdf-Online/Assignment-1.html">Assignment-1</a>
-2. <a href="./View-Pdf-Online/Assignment-2.html">Assignment-2</a>
+</td>
+</tr>
+  
+<tr>
+<td align="justify">
+2. <a href="./View-Pdf-Online/Assignment-2.html">Assignment-2</a> 
+</td>
+</tr>
+  
+<tr>
+<td align="justify">
 3. <a href="./View-Pdf-Online/Assignment-3.html">Assignment-3</a>
+</td>
+</tr>
+
+
+<tr>
+<td align="justify">
 4. <a href="./View-Pdf-Online/Assignment-4.html">Assignment-4</a>
-```
+</td>
+</tr>
+  
+</table>
 
 
