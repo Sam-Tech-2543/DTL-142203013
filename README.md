@@ -92,7 +92,7 @@ requests; working on a project in a distributed fashion
 <div align="center">
 
 | Sr. No   |                                  Name                           | 
-|----------|:---------------------------------------------------------------:|
+|----------|:----------------------------------------------------------------|
 |     1    |  <a href="./View-Pdf-Online/Assignment-1.html">Assignment-1</a> |
 |     2    |  <a href="./View-Pdf-Online/Assignment-4.html">Assignment-2</a> |
 |     3    |  <a href="./View-Pdf-Online/Assignment-4.html">Assignment-3</a> |
