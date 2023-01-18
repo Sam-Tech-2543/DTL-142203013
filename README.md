@@ -105,25 +105,25 @@ Contents
 
 <tr>
 <td align="center">
-<a href="./View-Pdf-Online/Assignment-1.html">Assignment-1</a>
+<a href="./View-Pdf-Online/Assignment-1.html" target="_blank">Assignment-1</a>
 </td>
 </tr>
   
 <tr>
 <td align="center">
-<a href="./View-Pdf-Online/Assignment-2.html">Assignment-2</a> 
+<a href="./View-Pdf-Online/Assignment-2.html" target="_blank">Assignment-2</a> 
 </td>
 </tr>
   
 <tr>
 <td align="center">
-<a href="./View-Pdf-Online/Assignment-3.html">Assignment-3</a>
+<a href="./View-Pdf-Online/Assignment-3.html" target="_blank">Assignment-3</a>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<a href="./View-Pdf-Online/Assignment-4.html">Assignment-4</a>
+<a href="./View-Pdf-Online/Assignment-4.html" target="_blank">Assignment-4</a>
 </td>
 </tr>
   
