@@ -1,6 +1,4 @@
-<p align="center">
-  <font size="4"> **DTL-142203013** </font>
-</p>
+<font size="4" align="center"> **DTL-142203013** </font>
 
 <hr>
 
