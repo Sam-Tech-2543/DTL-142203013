@@ -32,7 +32,7 @@ Subject : Development Tools Laboratory
 <img width="441" height="1">
 <p> 
 <small>
-EXAMPLE TEXT
+Name
 </small>
 </p>
 </th>
@@ -40,7 +40,7 @@ EXAMPLE TEXT
 <img width="441" height="1">
 <p> 
 <small>
-EXAMPLE TEXT
+Contents
 </small>
 </p>
 </th>
@@ -73,6 +73,66 @@ EXAMPLE TEXT
   
 </td>
 </tr>
+  
+  <tr>
+<td>
+<!-- REMOVE THE BACKSLASHES -->
+```jsonc
+{
+  "foo": [
+    {
+      "bar": "hello world"
+    }
+  ]
+}
+```
+  
+</td>
+<td>
+<!-- REMOVE THE BACKSLASHES -->
+```jsonc
+{
+  "foo": [
+    {
+      "bar": "hello world"
+    }
+  ]
+}
+```
+  
+</td>
+</tr>
+  
+  <tr>
+<td>
+<!-- REMOVE THE BACKSLASHES -->
+```jsonc
+{
+  "foo": [
+    {
+      "bar": "hello world"
+    }
+  ]
+}
+```
+  
+</td>
+<td>
+<!-- REMOVE THE BACKSLASHES -->
+```jsonc
+{
+  "foo": [
+    {
+      "bar": "hello world"
+    }
+  ]
+}
+```
+  
+</td>
+</tr>
+  
+  
 <tr>
 <td align="center">
 Column 1
