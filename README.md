@@ -4,7 +4,6 @@
   <a href='https://www.coep.org.in/'><img src="https://user-images.githubusercontent.com/79782433/213049521-2949bddd-5424-41ad-aea8-d271ee33cda2.jpg", alt="COEP"></a>
 </p>
 
-
 ```httpx
 Name    : Sarvesh Anand Mankar
 MIS No  : 142203013
@@ -12,6 +11,9 @@ Class   : Computer Engineering Division 2
 Subject : Development Tools Laboratory
 ```
 
+<hr>
+
+<h3> Course Content</h3>
 <table>
 <tr>
 <th align="center">
@@ -73,7 +75,6 @@ requests; working on a project in a distributed fashion
   
 </table>
 
-
 <h3> Course Outcome</h3>
   
   ```httpx
@@ -81,4 +82,3 @@ requests; working on a project in a distributed fashion
 2. Write a report in a specified format using LaTEX. 
 3. Demonstrate programming ability using Unix Shell.
 ```
-  
