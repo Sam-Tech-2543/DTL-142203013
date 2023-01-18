@@ -1,5 +1,3 @@
-<font size="4" align="center"> **DTL-142203013** </font>
-
 <hr>
 
 <p align="center">
@@ -14,7 +12,7 @@ Class   : Computer Engineering Division 2
 Subject : Development Tools Laboratory
 ```
 
-<table>
+<table style="width: 100%;">
 <tr>
 <td>
 <h3>Development Tools Laboratory</h3>
