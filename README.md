@@ -1,12 +1,13 @@
 <hr>
 
 <p align="center">
-  <a href='https://www.coep.org.in/'><img src="https://user-images.githubusercontent.com/79782433/213049521-2949bddd-5424-41ad-aea8-d271ee33cda2.jpg", alt="COEP"></a>
+  <img src="https://user-images.githubusercontent.com/79782433/213098224-db5625c9-691d-4287-9505-f6cbbad53d0c.jpg", alt="COEP">
 </p>
 
 ```httpx
 Name    : Sarvesh Anand Mankar
 MIS No  : 142203013
+
 Class   : Computer Engineering Division 2
 Subject : Development Tools Laboratory
 ```
@@ -17,7 +18,7 @@ Subject : Development Tools Laboratory
 <table>
 <tr>
 <th align="center">
-<img width="441" height="1">
+<img width="200" height="1">
 <p> 
 <small>
 Name
