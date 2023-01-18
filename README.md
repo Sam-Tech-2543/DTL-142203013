@@ -12,20 +12,6 @@ Class   : Computer Engineering Division 2
 Subject : Development Tools Laboratory
 ```
 
-<table style="width: 100%;">
-<tr>
-<td>
-<h3>Development Tools Laboratory</h3>
-<ul>
-    <li>Latex</li>
-    <li>Linux Commands</li>
-    <li>Shell Scripting</li>
-    <li>Git Command</li>
-</ul>
-</td>
-</tr>
-</table>
-
 <table>
 <tr>
 <th align="center">
@@ -47,87 +33,42 @@ Contents
 </tr>
 <tr>
 <td>
-<!-- REMOVE THE BACKSLASHES -->
-```jsonc
-{
-  "foo": [
-    {
-      "bar": "hello world"
-    }
-  ]
-}
-```
-  
+LaTEX
 </td>
 <td>
-<!-- REMOVE THE BACKSLASHES -->
-```jsonc
-{
-  "foo": [
-    {
-      "bar": "hello world"
-    }
-  ]
-}
-```
+Basic syntax, compiling and creating documents; Document structure, sections, 
+paragraphs; packages, Math, Adding Images, Drawing images (using tools like Inkscape) Table 
+of contents; Source code, graphs (using tools like Graphviz), Adding references, different 
+templates, IEEE format, Bibliography
   
 </td>
 </tr>
   
   <tr>
 <td>
-<!-- REMOVE THE BACKSLASHES -->
-```jsonc
-{
-  "foo": [
-    {
-      "bar": "hello world"
-    }
-  ]
-}
-```
-  
+Shell Programming 
 </td>
 <td>
 <!-- REMOVE THE BACKSLASHES -->
-```jsonc
-{
-  "foo": [
-    {
-      "bar": "hello world"
-    }
-  ]
-}
-```
+Introduction to Linux commands, concept of shell, shell variables, 
+getcwd() and pwd; Introduction to shell programming features: Variables declaration & scope, 
+test, return value of a program, if-else and useful examples, for and while loop, switch case; 
+Shell functions, pipe and redirection, wildcards, escape characters; Awk script: Environment and 
+workflow, syntax, variables, operators, regular expressions, arrays, control flows, loops, 
+functions, output redirections
   
 </td>
 </tr>
   
   <tr>
 <td>
-<!-- REMOVE THE BACKSLASHES -->
-```jsonc
-{
-  "foo": [
-    {
-      "bar": "hello world"
-    }
-  ]
-}
-```
+GIT
   
 </td>
 <td>
-<!-- REMOVE THE BACKSLASHES -->
-```jsonc
-{
-  "foo": [
-    {
-      "bar": "hello world"
-    }
-  ]
-}
-```
+Creating a project using git locally, add, commit, status, diff; branch and merge, GIT: 
+cloning a remote repo, working with a remote repo – git push, pull, fetch; creating issues and pull 
+requests; working on a project in a distributed fashion
   
 </td>
 </tr>
