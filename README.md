@@ -89,46 +89,6 @@ requests; working on a project in a distributed fashion
 <h3> Assignment View</h3>
   <p>Just converted the .pdf into .html to have a quick look at!</p>
 
- <center>
-<table style="margin-left: auto;margin-right: auto;">
-<tr>
-<th align="center">
-<img width="800" height="1">
-<p> 
-<small>
-Name
-</small>
-</p>
-</th>
-</tr>
-<tr>
-  
-<td align="justify">
-<a href="./View-Pdf-Online/Assignment-1.html">1. Assignment-1</a>
-</td>
-</tr>
-  
-<tr>
-<td align="justify">
-<a href="./View-Pdf-Online/Assignment-2.html">2. Assignment-2</a> 
-</td>
-</tr>
-  
-<tr>
-<td align="justify">
-<a href="./View-Pdf-Online/Assignment-3.html">3. Assignment-3</a>
-</td>
-</tr>
-
-<tr>
-<td align="justify">
-<a href="./View-Pdf-Online/Assignment-4.html">4. Assignment-4</a>
-</td>
-</tr>
-  
-</table>
-</center>
-
 <div align="center">
 
 | Sr. No   |                                  Name                           | 
