@@ -90,6 +90,7 @@ requests; working on a project in a distributed fashion
   <p>Just converted the .pdf into .html to have a quick look at!</p>
  
  ```httpx
+ [Assignment-1](./View-Pdf-Online/Assignment-1.html)
 1. <a href="./View-Pdf-Online/Assignment-1.html">Assignment-1</a>
 2. <a href="./View-Pdf-Online/Assignment-2.html">Assignment-2</a>
 3. <a href="./View-Pdf-Online/Assignment-3.html">Assignment-3</a>
