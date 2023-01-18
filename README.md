@@ -91,19 +91,10 @@ requests; working on a project in a distributed fashion
 
 <div align="center">
 
-| Sr. No   |                                  Name                           | 
-|----------|:----------------------------------------------------------------|
-|     1    |  <a href="./View-Pdf-Online/Assignment-1.html">Assignment-1</a> |
-|     2    |  <a href="./View-Pdf-Online/Assignment-4.html">Assignment-2</a> |
-|     3    |  <a href="./View-Pdf-Online/Assignment-4.html">Assignment-3</a> |
-|     4    |  <a href="./View-Pdf-Online/Assignment-4.html">Assignment-4</a> |
-|     5    |  <a href="./View-Pdf-Online/Assignment-4.html">Assignment-5</a> |
-
-
 <table>
 <tr>
 <th align="center">
-<img width="441" height="1">
+<img width="250" height="1">
 <p> 
 <small>
 Contents
@@ -137,7 +128,6 @@ Contents
 </tr>
   
 </table>
-
 
 </div>
 
