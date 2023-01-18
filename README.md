@@ -1,8 +1,8 @@
 <hr>
 
-<p align="center">
+<div align="center">
   <img src="./photos/COEP-Pune-Logo.jpg", alt="COEP">
-</p>
+</div>
 
 ```httpx
 Name    : Sarvesh Anand Mankar
