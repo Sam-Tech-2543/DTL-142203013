@@ -1,14 +1,13 @@
 <hr>
 
 <p align="center">
-
-<!--https://user-images.githubusercontent.com/79782433/213049521-2949bddd-5424-41ad-aea8-d271ee33cda2.jpg-->
-  <img src="https://raw.githubusercontent.com/bell-kevin/Kevin-Bell/main/kevinBell.png", alt="COEP">
+  <img src="https://user-images.githubusercontent.com/79782433/213098224-db5625c9-691d-4287-9505-f6cbbad53d0c.jpg", alt="COEP">
 </p>
 
 ```httpx
 Name    : Sarvesh Anand Mankar
 MIS No  : 142203013
+
 Class   : Computer Engineering Division 2
 Subject : Development Tools Laboratory
 ```
