@@ -71,6 +71,9 @@ requests; working on a project in a distributed fashion
 </td>
 </tr>
   
+</table>
+
+
   ###Course Outcome
   
   ```httpx
@@ -79,5 +82,3 @@ requests; working on a project in a distributed fashion
 3. Demonstrate programming ability using Unix Shell.
 ```
   
-  
-</table>
